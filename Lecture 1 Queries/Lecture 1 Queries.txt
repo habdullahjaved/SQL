@@ -1,0 +1,1 @@
+SELECT * FROM "public"."payment" ORDER BY customer_id, amount DESC;
